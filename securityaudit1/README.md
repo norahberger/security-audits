@@ -11,8 +11,8 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 <h2>Report</h2>
 
-- [Scope, Goals, and Risk Assessment Report](https://github.com/DigitalWatchmen/Botium-Toys/blob/main/Botium%20Toy's%20Scope%2C%20Goals%2C%20and%20Risk%20Assessment%20Report.pdf)
+- [Scope, Goals, and Risk Assessment Report](https://github.com/norahberger/security-audits/blob/64c6ea3d0c72270cfe90a37f4786833b1c7d79f5/securityaudit1/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf)
 
 <h2>Checklists</h2>
 
-- [Compliance Checklist](https://github.com/DigitalWatchmen/Botium-Toys/blob/main/Botium%20Toy's%20Compliance%20Checklist.pdf)
+- [Controls and Compliance Checklist](https://github.com/norahberger/security-audits/blob/64c6ea3d0c72270cfe90a37f4786833b1c7d79f5/securityaudit1/Controls%20and%20compliance%20checklist.pdf)
