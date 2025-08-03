@@ -15,4 +15,4 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 <h2>Checklists</h2>
 
-- [Controls and Compliance Checklist](https://github.com/norahberger/security-audits/blob/64c6ea3d0c72270cfe90a37f4786833b1c7d79f5/securityaudit1/Controls%20and%20compliance%20checklist.pdf)
+- [Controls and Compliance Checklist](https://github.com/norahberger/security-audits/blob/c0cb36b7dc9152aa02e25c7939c4492fe2b777bc/securityaudit1/Controls%20and%20compliance%20checklist.pdf)
